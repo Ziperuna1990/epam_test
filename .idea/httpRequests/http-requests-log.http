@@ -1,0 +1,126 @@
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T181843.200.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/6
+Accept: application/json
+
+<> 2022-03-08T181841.200.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/111
+Accept: application/json
+
+<> 2022-03-08T181833.404.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/111
+Accept: application/json
+
+<> 2022-03-08T175933.404.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/111
+Accept: application/json
+
+<> 2022-03-08T175703.500.txt
+
+###
+
+GET http://127.0.0.1:8000/epoch/6
+Accept: application/json
+
+<> 2022-03-08T175629.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T175625.200.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/6
+Accept: application/json
+
+<> 2022-03-08T175200.200.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/6
+Accept: application/json
+
+<> 2022-03-08T175051.200.json
+
+###
+
+GET http://127.0.0.1:8000/epoch/6
+Accept: application/json
+
+<> 2022-03-08T175047.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T175036.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174446.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174442.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174437.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174411.200.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174208.500.txt
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174108.422.json
+
+###
+
+POST http://127.0.0.1:8000/epoch/
+Accept: application/json
+
+<> 2022-03-08T174040.422.json
+
+###
+
